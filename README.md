@@ -1,10 +1,5 @@
 
 <p align="center">
-  <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-  <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/chauhannaman98/MedFixture?style=for-the-badge">
-</p>
-
-<p align="center">
   <img alt="Travis (.com) branch" src="https://img.shields.io/travis/com/chauhannaman98/MedFixture/master?style=flat-square">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/chauhannaman98/MedFixture?style=flat-square">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/chauhannaman98/MedFixture?style=flat-square">
@@ -22,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/chauhannaman98/MedFixture">
+  <a href="https://github.com/incredibledevhades/email_authentication">
     <img src="resources/icon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -31,14 +26,14 @@
   <p align="center">
     A GUI application to make and manage hospital appointments in a database!
     <br />
-    <a href="https://github.com/chauhannaman98/MedFixture/blob/master/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/incredibledevhades/email_authentication/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/chauhannaman98/MedFixture">View Demo</a>
+    <a href="https://github.com/incredibledevhades/email_authentication">View Demo</a>
     ·
-    <a href="https://github.com/chauhannaman98/MedFixture/issues">Report Bug</a>
+    <a href="https://github.com/incredibledevhades/email_authentication/issues">Report Bug</a>
     ·
-    <a href="https://github.com/chauhannaman98/MedFixture/issues">Request Feature</a>
+    <a href="https://github.com/incredibledevhades/email_authentication/issues">Request Feature</a>
     ·
   <a href="https://github.com/chauhannaman98/Medixture/pulls">Make Pull Request</a>
   </p>
@@ -64,7 +59,7 @@
 ## About the Project
 
 <p align="center">
-  <a href="https://github.com/chauhannaman98/MedFixture">
+  <a href="https://github.com/incredibledevhades/email_authentication">
     <img src="resources/readme/what_is_it.png" alt="what-is-it-window">
   </a>
 </p>
@@ -74,52 +69,47 @@ MedFixture is an application to book and manage the appointments of a hospital o
 ### Features
 * Uses a master login window to access the database and make data transactions. It even has a _Login as Guest_ feature to login for only viewing the data and not editing the database.
 <p align="center">
-  <a href="https://github.com/chauhannaman98/MedFixture">
+  <a href="https://github.com/incredibledevhades/email_authentication">
     <img src="resources/readme/master.png" alt="master-login">
   </a>
 </p>
 
 * If the user forgets the password, the application also has a feature to reset the password using the saved secret questions. The option to reset password usign OTP/reset link will be pushed in the upcoming versions hopefully.
 <p align="center">
-  <a href="https://github.com/chauhannaman98/MedFixture">
+  <a href="https://github.com/incredibledevhades/email_authentication">
     <img src="resources/readme/forgot_pass.png" alt="master-login">
   </a>
 </p>
 
 * If logged in using an user, authenticated by the credentials from the database, a new toplevel window opens and show the profile details. It also gives options to add, edit or delete the appointments.
 <p align="center">
-  <a href="https://github.com/chauhannaman98/MedFixture">
+  <a href="https://github.com/incredibledevhades/email_authentication">
     <img src="resources/readme/menu_bar.png" alt="menu-bar">
   </a>
 </p>
 
 * On clicking on _Add Appointment,_ a new window to add new appointment is opened which saves new data to connected database.
 <p align="center">
-  <a href="https://github.com/chauhannaman98/MedFixture">
+  <a href="https://github.com/incredibledevhades/email_authentication">
     <img src="resources/readme/add.png" alt="add-appointment">
   </a>
 </p>
 
 * On clicking on _Edit Appointment,_ a new window to edit existing appointment which updates data to connected database.
 <p align="center">
-  <a href="https://github.com/chauhannaman98/MedFixture">
+  <a href="https://github.com/incredibledevhades/email_authentication">
     <img src="resources/readme/update.png" alt="update-appointment">
   </a>
 </p>
 
 * On clicking on _Delete Appointment,_ a new window to delete any existing appointment which is saved in the connected database.
 <p align="center">
-  <a href="https://github.com/chauhannaman98/MedFixture">
+  <a href="https://github.com/incredibledevhades/email_authentication">
     <img src="resources/readme/delete.png" alt="delete-appointment">
   </a>
 </p>
 
 * On completing your work, you can simply logout your session and re-login again.
-<p align="center">
-  <a href="https://github.com/chauhannaman98/MedFixture">
-    <img src="resources/readme/logout_warning.png" alt="logout-warning">
-  </a>
-</p>
 
 ### Built using
 * Software
@@ -158,9 +148,9 @@ sudo apt install python3-pil
 
 ### Installation
 
-1. :dancers: Clone the repository or download the .zip from [here](https://github.com/chauhannaman98/MedFixture/archive/master.zip).
+1. :dancers: Clone the repository or download the .zip from [here](https://github.com/incredibledevhades/email_authentication/archive/master.zip).
 ```sh
-git clone https://github.com/chauhannaman98/MedFixture.git
+git clone https://github.com/incredibledevhades/email_authentication.git
 ```
 2. Go to the directory:
 ```sh
@@ -179,18 +169,18 @@ python3 master.py
 
 ## Changelog
 
-### [[v1.1.1](https://github.com/chauhannaman98/MedFixture/releases/tag/v1.1.1)] - 2020-05-31
+### [[v1.1.1](https://github.com/incredibledevhades/email_authentication/releases/tag/v1.1.1)] - 2020-05-31
 #### Added:
 - The feature disables submit button to send code again unless present code(correct/incorrect) has been submitted to prevent multiple times email being sent to the registered email address.
 
 #### Fixed:
 - Label overlapping in the reset window has been fixed.
 
-### [[v1.0.0-beta.1](https://github.com/chauhannaman98/MedFixture/releases/tag/v1.0.0-beta.1)] - 2020-05-10
+### [[v1.0.0-beta.1](https://github.com/incredibledevhades/email_authentication/releases/tag/v1.0.0-beta.1)] - 2020-05-10
 
-A stable application has been released for public use in the beta state. Users are appreciated to test the application. You can [create](https://github.com/chauhannaman98/MedFixture/issues) an issue to request a new feature or report a bug. Also, you can fork the repository and [make](https://github.com/chauhannaman98/Medixture/pulls) a pull request for contributions.
+A stable application has been released for public use in the beta state. Users are appreciated to test the application. You can [create](https://github.com/incredibledevhades/email_authentication/issues) an issue to request a new feature or report a bug. Also, you can fork the repository and [make](https://github.com/chauhannaman98/Medixture/pulls) a pull request for contributions.
 
-### [[v0.2.0](https://github.com/chauhannaman98/MedFixture/releases/tag/v0.2.0)] - 2020-05-07
+### [[v0.2.0](https://github.com/incredibledevhades/email_authentication/releases/tag/v0.2.0)] - 2020-05-07
 #### Added:
 - `Added` new delete window to delete the existing record in the database.
 
@@ -217,7 +207,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU General Public License v3.0 License. See [LICENSE](https://github.com/chauhannaman98/MedFixture/blob/master/LICENSE) for more information.
+Distributed under the GNU General Public License v3.0 License. See [LICENSE](https://github.com/incredibledevhades/email_authentication/blob/master/LICENSE) for more information.
 
 
 
@@ -226,7 +216,7 @@ Distributed under the GNU General Public License v3.0 License. See [LICENSE](htt
 
 Made with :heart: by Naman Chauhan - [@techmirtz](https://twitter.com/techmirtz) - chauhannaman98gmail.com
 
-Project Link: :octocat: [https://github.com/chauhannaman98/MedFixture](https://github.com/chauhannaman98/Medfixture)
+Project Link: :octocat: [https://github.com/incredibledevhades/email_authentication](https://github.com/incredibledevhades/email_authentication)
 
 
 
