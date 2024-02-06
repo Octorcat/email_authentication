@@ -213,16 +213,4 @@ Distributed under the GNU General Public License v3.0 License. See [LICENSE](htt
 
 <!-- CONTACT -->
 ## Contact
-
-Made with :heart: by Naman Chauhan - [@techmirtz](https://twitter.com/techmirtz) - chauhannaman98gmail.com
-
 Project Link: :octocat: [https://github.com/incredibledevhades/email_authentication](https://github.com/incredibledevhades/email_authentication)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
-* [Hospital-Management-System on Github by onthir](https://github.com/onthir/Hospital-Management-System)
